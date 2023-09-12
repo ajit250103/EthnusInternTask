@@ -1,1 +1,1 @@
-# EthnusInternTask
+# ETHNUSMERNTASKS
